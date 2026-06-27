@@ -1,23 +1,5 @@
 # Improving User Activation and Paid Orders at AutoDS
 
-
-## Company & Product Context
-
-AutoDS is an all-in-one dropshipping automation platform that helps merchants manage the entire dropshipping workflow, including:
-
-- Product research
-- Product importing
-- Inventory and price monitoring
-- Order fulfillment
-- Customer support automation
-- Pricing optimization
-
-The assignment states that most AutoDS customers are beginners who are just starting their dropshipping journey.
-
-However, after exploring the onboarding flow, I observed that users are immediately asked to connect an existing selling channel (Shopify, WooCommerce, eBay, Amazon, Wix, etc.). This suggests that many users are already at least partially engaged in e-commerce and are looking for automation rather than education.
-
-This discrepancy is important because it affects onboarding expectations and the amount of guidance users need before experiencing product value.
-
 ## Understanding the Business Goals
 
 The assignment defines the following OKRs:
